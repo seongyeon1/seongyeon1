@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=성연이네%20데이터 분석 마을&fontSize=90&animation=fadeIn&fontAlignY=38&desc=성연이의%20GitHub에%20와주셔서%20감사합니다!%20환영합니다!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seongyeon%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Page&descAlignY=51&descAlign=62"/>
 </p>
 
 ## Hi there 👋
