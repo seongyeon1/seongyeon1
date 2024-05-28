@@ -10,3 +10,10 @@
 #### Platforms & Languages
 
 ![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=ambient_gradient)
+
+<a href="https://github.com/seongyeon1/aiffel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=aiffel" />
+</a>
+<a href="https://github.com/seongyeon1/Recruitment_Text_Mining">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=Recruitment_Text_Mining" />
+</a>
