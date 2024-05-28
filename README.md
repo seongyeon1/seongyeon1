@@ -9,11 +9,11 @@
 ### 💪 Skills
 #### Platforms & Languages
 
-![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=graywhite)
+![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=rose)
 
 <a href="https://github.com/seongyeon1/aiffel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=aiffel&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=aiffel&theme=rose" />
 </a>
 <a href="https://github.com/seongyeon1/Recruitment_Text_Mining">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=Recruitment_Text_Mining&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=Recruitment_Text_Mining&theme=rose" />
 </a>
