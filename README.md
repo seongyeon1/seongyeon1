@@ -12,6 +12,9 @@
 - I'm interested in data around the world
 
 ### 💪 Skills
+python
+django, pandas, tableau
+
 #### Platforms & Languages
 
 ![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=rose)
