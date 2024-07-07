@@ -15,6 +15,11 @@
 python
 django, pandas, tableau
 
+<img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org)
+
+Full tech stack [here](/techstack.md)
+
+
 #### Platforms & Languages
 
 ![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=rose)
