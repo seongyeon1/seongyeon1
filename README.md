@@ -12,12 +12,11 @@
 - I'm interested in data around the world
 
 ### 💪 Skills
-python
-django, pandas, tableau
-
-
-![https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=whit](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 #### Platforms & Languages
