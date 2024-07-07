@@ -11,7 +11,7 @@
 
 - I'm interested in data around the world
 
-### 💪 Skills
+## 💪 Skills
 
 #### i am skillfull of ...
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,6 +27,12 @@
 ![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+## I studied
+![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+
+
+
+## MY GITHUB
 ![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=rose)
 
 <a href="https://github.com/seongyeon1/aiffel">
