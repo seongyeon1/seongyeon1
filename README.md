@@ -1,8 +1,3 @@
-
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&theme=rose&height=300&section=header&text=Welcome%20to%20Seongyeon's%20GitHub%20👋&fontSize=40&animation=fadeIn&fontAlignY=38"/>
-</p>
-
 ## Hi there 👋
 <p>
   <a href="https://yeonco.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
