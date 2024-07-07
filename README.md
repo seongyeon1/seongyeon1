@@ -15,9 +15,9 @@
 python
 django, pandas, tableau
 
-<img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org)
 
-Full tech stack [here](/techstack.md)
+![https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=whit](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 #### Platforms & Languages
