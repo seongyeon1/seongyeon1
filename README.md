@@ -8,18 +8,24 @@
 
 ## 💪 Skills
 
-#### i am skillfull of ...
+#### Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+#### DS/ML/DL
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain)
 
-#### i am trying to using if it needs ...
+#### DevOps
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
+
+#### Deployment
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -28,13 +34,6 @@
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
+### Certifications 📜
 
-## MY GITHUB
-<!-- ![Seongyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=rose) -->
-
-<a href="https://github.com/seongyeon1/aiffel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=aiffel&theme=rose" />
-</a>
-<a href="https://github.com/seongyeon1/Recruitment_Text_Mining">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seongyeon1&repo=Recruitment_Text_Mining&theme=rose" />
-</a>
+### Achievements 🏆
