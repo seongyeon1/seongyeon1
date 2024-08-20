@@ -20,8 +20,8 @@
 
 #### DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Deployment
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
