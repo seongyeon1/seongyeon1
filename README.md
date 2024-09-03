@@ -30,13 +30,13 @@
 ![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## I studied]
+## I studied
 
-### Certifications 🎖️ 
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
   - [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/QRHSEKPLHHDB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
   - [Google Data Analytics](https://coursera.org/share/fedd20f3b8ca74b9b0b4230703fa3e5d)
 
+### Certifications 🎖️
 - 빅데이터 분석기사
 - [AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/L2N4T0lGZ2lDeFU1aVE1M3JRUnRnQT09)
 
