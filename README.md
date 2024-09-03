@@ -30,10 +30,26 @@
 ![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## I studied
+## I studied]
+
+### Certifications 🎖️ 
 ![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+  - Machine Learning (https://www.coursera.org/account/accomplishments/specialization/QRHSEKPLHHDB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+  - Google Data Analytics (https://coursera.org/share/fedd20f3b8ca74b9b0b4230703fa3e5d)
 
-
-### Certifications 📜
+- 빅데이터 분석기사
+- AICE Associate (https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/L2N4T0lGZ2lDeFU1aVE1M3JRUnRnQT09)
 
 ### Achievements 🏆
+- 미래에셋 투자증권 공모전 (2022.06.27 ~ 2022.11.16) `장려상` 수상
+- NH 투자증권 공모전 (2022.09.19 ~ 2022.11.28) `장려상` 수상
+
+- 경영경제대학 학술제 `우수상` 수상 (2023.06.01)
+- 제 4회 응용통계학과 분석 공모전 `최우수상`
+
+### Experience 👨🏻‍💻
+- 중앙대학교 DILAB 학부 인턴 (2022.08 ~ 2023.04)
+    - 근시퇴행 예측 프로젝트 참여 (데이터 분석 및 전처리)
+    - 보라매 병원 생존분석 프로젝트 참여 (데이터 분석 및 전처리)
+    - 암 예후 예측 대회 참여 (데이터 분석 및 전처리, 모델링)
+    - 소아 응급환자 응급분류 모델링 프로젝트 참여 (데이터 분석 및 전처리, 데이터 검증, 모델링)
