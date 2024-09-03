@@ -51,17 +51,21 @@
   - 소아 응급환자 응급분류 모델링 프로젝트 참여 (데이터 분석 및 전처리, 데이터 검증, 모델링)
  
 #### AIFFEL 리서치 과정
-  - [한국어 챗봇 모델링(from scratch)](https://github.com/seongyeon1/Ko-Chatbots-From-Scratch)
-  - [한국어 번역기 모델링(from scratch)](https://github.com/seongyeon1/Ko-En-Translator-From-Scratch)
+  - `ML/DL` 모델링
+    - [한국어 챗봇 모델링(from scratch)](https://github.com/seongyeon1/Ko-Chatbots-From-Scratch)
+    - [한국어 번역기 모델링(from scratch)](https://github.com/seongyeon1/Ko-En-Translator-From-Scratch)
 
-  - MLOps (Docker, fastapi, Uvicorn)
+  - `MLOps` (`Docker`, `fastapi`, `Uvicorn`)
     - [streamlit을 통해 iris 종 예측결과를 확인](https://github.com/seongyeon1/Predict-Species-Iris)
    
   - 다양한 프로젝트 수행
     - [한국어 위협대화 분류](https://github.com/seongyeon1/Ko-Threat-Detection)
     - [질병 예측 및 병원 추천](https://github.com/seongyeon1/AI-Medical-Assistant)
-   
 
+#### 프로젝트 경험 
+  - [응급대화 분류 모델링](https://github.com/seongyeon1/Fraiday)
+  - [드레스 스케치](https://github.com/genai-wedding-dress/dress-maker)
+  - [요양병원 보호자 안심 서비스](https://github.com/primer-genAI/NursingHome)
 --------
 
 ### Certifications 🎖️
