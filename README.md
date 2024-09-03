@@ -36,17 +36,8 @@
   - [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/QRHSEKPLHHDB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
   - [Google Data Analytics](https://coursera.org/share/fedd20f3b8ca74b9b0b4230703fa3e5d)
 
-### Certifications 🎖️
-- 빅데이터 분석기사
-- [AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/L2N4T0lGZ2lDeFU1aVE1M3JRUnRnQT09)
 
-### Achievements 🏆
-- 미래에셋 투자증권 공모전 (2022.06.27 ~ 2022.11.16) `장려상` 수상
-- NH 투자증권 공모전 (2022.09.19 ~ 2022.11.28) `장려상` 수상
-
-- 경영경제대학 학술제 `우수상` 수상 (2023.06.01) - [자세히 보러가기](https://github.com/seongyeon1/AI_Detective)
-- 제 4회 응용통계학과 분석 공모전 `최우수상`
-
+------
 ### Experience 👨🏻‍💻
 
 #### 실용중심의 인공지능 개발자 양성과정 수료
@@ -69,3 +60,17 @@
   - 다양한 프로젝트 수행
     - [한국어 위협대화 분류](https://github.com/seongyeon1/Ko-Threat-Detection)
     - [질병 예측 및 병원 추천](https://github.com/seongyeon1/AI-Medical-Assistant)
+   
+
+--------
+
+### Certifications 🎖️
+- 빅데이터 분석기사
+- [AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/L2N4T0lGZ2lDeFU1aVE1M3JRUnRnQT09)
+
+### Achievements 🏆
+- 미래에셋 투자증권 공모전 (2022.06.27 ~ 2022.11.16) `장려상` 수상
+- NH 투자증권 공모전 (2022.09.19 ~ 2022.11.28) `장려상` 수상
+
+- 경영경제대학 학술제 `우수상` 수상 (2023.06.01) - [자세히 보러가기](https://github.com/seongyeon1/AI_Detective)
+- 제 4회 응용통계학과 분석 공모전 `최우수상`
