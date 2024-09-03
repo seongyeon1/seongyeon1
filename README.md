@@ -44,12 +44,28 @@
 - 미래에셋 투자증권 공모전 (2022.06.27 ~ 2022.11.16) `장려상` 수상
 - NH 투자증권 공모전 (2022.09.19 ~ 2022.11.28) `장려상` 수상
 
-- 경영경제대학 학술제 `우수상` 수상 (2023.06.01)
+- 경영경제대학 학술제 `우수상` 수상 (2023.06.01) - [자세히 보러가기](https://github.com/seongyeon1/AI_Detective)
 - 제 4회 응용통계학과 분석 공모전 `최우수상`
 
 ### Experience 👨🏻‍💻
-- 중앙대학교 DILAB 학부 인턴 (2022.08 ~ 2023.04)
-    - 근시퇴행 예측 프로젝트 참여 (데이터 분석 및 전처리)
-    - 보라매 병원 생존분석 프로젝트 참여 (데이터 분석 및 전처리)
-    - 암 예후 예측 대회 참여 (데이터 분석 및 전처리, 모델링)
-    - 소아 응급환자 응급분류 모델링 프로젝트 참여 (데이터 분석 및 전처리, 데이터 검증, 모델링)
+
+#### 실용중심의 인공지능 개발자 양성과정 수료
+  - [미니 프로젝트](https://github.com/seongyeon1/miniproject) : 머신러닝 기반의 입지선정 프로젝트
+  - [실무 프로젝트](https://github.com/seongyeon1/djangoProject): 무역서류 기반의 자금세탁 방지 프로젝트
+
+#### 중앙대학교 DILAB 학부 인턴 (2022.08 ~ 2023.04)
+  - 근시퇴행 예측 프로젝트 참여 (데이터 분석 및 전처리)
+  - 보라매 병원 생존분석 프로젝트 참여 (데이터 분석 및 전처리)
+  - 암 예후 예측 대회 참여 (데이터 분석 및 전처리, 모델링)
+  - 소아 응급환자 응급분류 모델링 프로젝트 참여 (데이터 분석 및 전처리, 데이터 검증, 모델링)
+ 
+#### AIFFEL 리서치 과정
+  - [한국어 챗봇 모델링(from scratch)](https://github.com/seongyeon1/Ko-Chatbots-From-Scratch)
+  - [한국어 번역기 모델링(from scratch)](https://github.com/seongyeon1/Ko-En-Translator-From-Scratch)
+
+  - MLOps (Docker, fastapi, Uvicorn)
+    - [streamlit을 통해 iris 종 예측결과를 확인](https://github.com/seongyeon1/Predict-Species-Iris)
+   
+  - 다양한 프로젝트 수행
+    - [한국어 위협대화 분류](https://github.com/seongyeon1/Ko-Threat-Detection)
+    - [질병 예측 및 병원 추천](https://github.com/seongyeon1/AI-Medical-Assistant)
