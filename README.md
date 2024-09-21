@@ -37,7 +37,13 @@
     - [한국어 위협대화 분류](https://github.com/seongyeon1/Ko-Threat-Detection)
     - [질병 예측 및 병원 추천](https://github.com/seongyeon1/AI-Medical-Assistant)
 
-#### 프로젝트 경험 
+#### 프로젝트 경험
+
+2023
+ - 학회 참여
+  - DBA 공모전 : CJ 제일제당
+
+2024
   - [응급대화 분류 모델링](https://github.com/seongyeon1/Fraiday)
   - [드레스 스케치](https://github.com/genai-wedding-dress/dress-maker)
   - [요양병원 보호자 안심 서비스](https://github.com/primer-genAI/NursingHome)
