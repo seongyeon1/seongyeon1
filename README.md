@@ -26,7 +26,7 @@
   - 다양한 프로젝트 수행
     - [한국어 위협대화 분류](https://github.com/seongyeon1/Ko-Threat-Detection)
     - [질병 예측 및 병원 추천](https://github.com/seongyeon1/AI-Medical-Assistant)
-    - [ContainerGenie]()
+    - [SiGenie](https://github.com/seongyeon1/SiGenie)
 
 #### 중앙대학교 DILAB 학부 인턴 (2022.08 ~ 2023.04)
   - 근시퇴행 예측 프로젝트 참여 (데이터 분석 및 전처리)
