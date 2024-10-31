@@ -54,6 +54,7 @@
 
 ### Certifications 🎖️
 - 빅데이터 분석기사
+- ADsP
 - [AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/L2N4T0lGZ2lDeFU1aVE1M3JRUnRnQT09)
 
 ### Achievements 🏆
