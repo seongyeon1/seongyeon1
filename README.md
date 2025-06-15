@@ -5,13 +5,6 @@
 </p>
 - I'm interested in data around the world
 
-## I studied
-
-![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-  - [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/QRHSEKPLHHDB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
-  - [Google Data Analytics](https://coursera.org/share/fedd20f3b8ca74b9b0b4230703fa3e5d)
-
-
 ------
 ### Experience 👨🏻‍💻
 #### ClaBi (2024.12 ~ )
@@ -53,7 +46,6 @@
 
 
 #### 프로젝트 경험
-
 2023
  - 학회 참여
   - DBA 공모전 : CJ 제일제당
@@ -62,6 +54,12 @@
   - [응급대화 분류 모델링](https://github.com/seongyeon1/Fraiday)
   - [드레스 스케치](https://github.com/genai-wedding-dress/dress-maker)
   - [요양병원 보호자 안심 서비스](https://github.com/primer-genAI/NursingHome)
+
+2025
+  - 충남교육청 마주온 톡톡 챗봇 개발
+  - 경북교육청
+  - 미래엔
+  - 동아사이언스
 --------
 
 ### Certifications 🎖️
@@ -76,6 +74,11 @@
 - 경영경제대학 학술제 `우수상` 수상 (2023.06.01) - [자세히 보러가기](https://github.com/seongyeon1/AI_Detective)
 - 제 4회 응용통계학과 분석 공모전 `최우수상`
 
+## I studied
+
+![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+  - [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/QRHSEKPLHHDB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+  - [Google Data Analytics](https://coursera.org/share/fedd20f3b8ca74b9b0b4230703fa3e5d)
 
 --------
 
