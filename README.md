@@ -14,8 +14,20 @@
 
 ------
 ### Experience 👨🏻‍💻
-
-#### AIFFEL 리서치 과정 (2024.05 ~ 2024.11)
+#### ClaBi (2024.12 ~ )
+  - 충남교육청 챗봇 프로젝트 (2024.12 - 2025.06)
+    - 파이프라인 설계, 기획
+    - 데이터 적재
+    - 환경구축
+  - 경북교육청 챗봇 프로젝트
+    - 일정관리 기능 POC 테이블 설계 
+    - VDB 적재
+  - 동아사이언스 기능 개선
+    - 환경구축
+  - 동아사이언스 기능 개선
+    - 환경구축
+    
+#### AIFFEL 리서치 과정 (2024.05 - 2024.11)
   - `ML/DL` 모델링
     - [한국어 챗봇 모델링(from scratch)](https://github.com/seongyeon1/Ko-Chatbots-From-Scratch)
     - [한국어 번역기 모델링(from scratch)](https://github.com/seongyeon1/Ko-En-Translator-From-Scratch)
