@@ -164,17 +164,17 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450">
-  <img alt="Seongyeon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=seongyeon1&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&card_width=450">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=seongyeon1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450">
+  <img alt="Seongyeon's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seongyeon1&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&card_width=450">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=seongyeon1&theme=tokyonight&hide_border=true&date_format=Y-m-j">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=seongyeon1&theme=graywhite&hide_border=true&date_format=Y-m-j">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seongyeon1&theme=tokyonight&hide_border=true&date_format=Y-m-j">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=seongyeon1&theme=graywhite&hide_border=true&date_format=Y-m-j">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyeon1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyeon1&layout=compact&theme=graywhite&hide_border=true&langs_count=8&card_width=450">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seongyeon1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450">
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seongyeon1&layout=compact&theme=graywhite&hide_border=true&langs_count=8&card_width=450">
 </picture>
 
 </div>
