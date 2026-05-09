@@ -40,7 +40,7 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 |---------|--------|------------|
 | **IBK Capital** AI 여신 승인 | 금융 (On-Prem) | 처리시간 **70%↓** (3.5일→1일) · 비용 **₩4.7억/년 절감** |
 | **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
-| **GS Caltex** Deep Research MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 이후 사내 MCP 템플릿화 |
+| **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
 | **HSAD** 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
 
 **사내 도구도 직접 만듭니다** — `braincrew-index` (Repo 인덱스) · `Docker Log Monitor` (Slack 알림) · `PPT 생성 Skill` · `Notion → 기술블로그 자동 배포`
