@@ -38,6 +38,7 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 
 | Project | Domain | Highlights |
 |---------|--------|------------|
+| 🔥 **Active** — Enterprise 사내 Harness & Agent | Telco (`2026.04 ~`) | `langchain-deepagents` 기반 **멀티 sub-agent 아키텍처** · **Skill manifest + import-linter 격리** 로 Phase-02 sandbox 이식 가능 self-contained 설계 · LangGraph **PostgresSaver thread 영속** + arq/Redis 큐 |
 | **IBK Capital** AI 여신 승인 | 금융 (On-Prem) | 처리시간 **70%↓** (3.5일→1일) · 비용 **₩4.7억/년 절감** |
 | **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
 | **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
