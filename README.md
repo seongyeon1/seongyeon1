@@ -42,8 +42,9 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 | **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
 | **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
 | **HSAD** 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
+| **[braincrew-index](https://github.com/braincrew-lab/braincrew-index)** Org Repo Dashboard | Internal · DX | **2h 증분 인덱싱** · AWS Bedrock Claude **AI 요약** · contributor 커밋 → 팀 Lead/Contributed **자동 매핑** |
 
-**사내 도구도 직접 만듭니다** — `braincrew-index` (Repo 인덱스) · `Docker Log Monitor` (Slack 알림) · `PPT 생성 Skill` · `Notion → 기술블로그 자동 배포`
+**그 외 사내 효율화 도구도 직접 만듭니다** — `Docker Log Monitor` (실시간 장애 감지·Slack 알림) · `PPT 생성 Skill` (회사 템플릿 자동화) · `Notion → 기술블로그 자동 배포`
 
 ---
 
