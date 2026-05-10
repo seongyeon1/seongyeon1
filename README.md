@@ -42,7 +42,6 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 | **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
 | **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
 | **HSAD** 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
-| **braincrew-index** Org Repo Dashboard | Internal · DX | **2h 증분 인덱싱** · AWS Bedrock Claude **AI 요약** · contributor 커밋 → 팀 Lead/Contributed **자동 매핑** |
 
 ### 🧰 Internal Tools & OSS
 
@@ -51,6 +50,10 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 - **[oh-my-slides](https://github.com/seongyeon1/oh-my-slides)** · [Live Demo](https://seongyeon1.github.io/oh-my-slides/) <sup>OSS</sup>
   자연어 프롬프트 → **애니메이션 HTML 프레젠테이션 + PPTX export** Claude Code 플러그인.
   **20개 큐레이션 디자인 프리셋** (Bold Signal · Dark Academia · Terminal Green · Bento Grid 등), 모든 슬라이드 `100dvh` 자동 피팅, `clamp()` 타이포 스케일, custom .pptx import, zero-dependency 단일 HTML 출력.
+
+- **braincrew-index** · Org Repository Dashboard
+  BrainCrew Org의 모든 저장소를 **2시간마다 증분 인덱싱** (GitHub Actions cron + 경량 diff 감지).
+  **AWS Bedrock Claude로 AI 요약** 자동 생성, contributor 커밋을 팀별로 집계해 **주도(Lead) / 참여(Contributed) 관계 자동 매핑**. Next.js static export → GitHub Pages 대시보드.
 
 - **bc-ppt** · Braincrew 브랜드 PPT Skill
   4 variant (dark-a / light-b / internal-a / internal-b) × **13 레이아웃 고정**으로 브랜드 일관성 유지.
