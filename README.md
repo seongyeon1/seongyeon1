@@ -42,9 +42,25 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 | **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
 | **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
 | **HSAD** 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
-| **[braincrew-index](https://github.com/braincrew-lab/braincrew-index)** Org Repo Dashboard | Internal · DX | **2h 증분 인덱싱** · AWS Bedrock Claude **AI 요약** · contributor 커밋 → 팀 Lead/Contributed **자동 매핑** |
+| **braincrew-index** Org Repo Dashboard | Internal · DX | **2h 증분 인덱싱** · AWS Bedrock Claude **AI 요약** · contributor 커밋 → 팀 Lead/Contributed **자동 매핑** |
 
-**그 외 사내 효율화 도구도 직접 만듭니다** — `Docker Log Monitor` (실시간 장애 감지·Slack 알림) · `PPT 생성 Skill` (회사 템플릿 자동화) · `Notion → 기술블로그 자동 배포`
+### 🧰 Internal Tools & OSS
+
+> 팀 온보딩·운영·문서 생산성을 위한 도구들 — 직접 기획·구현·배포
+
+- **[oh-my-slides](https://github.com/seongyeon1/oh-my-slides)** · [Live Demo](https://seongyeon1.github.io/oh-my-slides/) <sup>OSS</sup>
+  자연어 프롬프트 → **애니메이션 HTML 프레젠테이션 + PPTX export** Claude Code 플러그인.
+  **20개 큐레이션 디자인 프리셋** (Bold Signal · Dark Academia · Terminal Green · Bento Grid 등), 모든 슬라이드 `100dvh` 자동 피팅, `clamp()` 타이포 스케일, custom .pptx import, zero-dependency 단일 HTML 출력.
+
+- **bc-ppt** · Braincrew 브랜드 PPT Skill
+  4 variant (dark-a / light-b / internal-a / internal-b) × **13 레이아웃 고정**으로 브랜드 일관성 유지.
+  **HTML + 편집 가능 PPTX 듀얼 출력** (placeholder 치환식, 이미지 PPTX 아님). `spec_lock.md` 재독 의무로 긴 덱 스타일 드리프트 방지, `page_rhythm` 태그(anchor/dense/breathing)로 슬라이드 리듬 제어.
+
+- **Docker Log Monitor** · 실시간 컨테이너 장애 감지 (EC2 + systemd)
+  Docker SDK로 stdout/stderr 스트림 구독 → 패턴 매칭 → **Slack 알림** (Webhook + **Bot API 스레드 모드**, traceback 전문 잘림 없이 전송).
+  쿨다운 / Grace Period / 4xx 자동 필터로 노이즈 제거, **AWS Bedrock으로 에러 원인 자동 분류** (코드 결함 vs 외부 의존), 주간 리포트 + Slack Canvas 통계 게시.
+
+- **Notion → 기술블로그 자동 배포** · Notion API → Markdown → 사내 기술블로그 CI/CD
 
 ---
 
