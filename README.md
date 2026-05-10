@@ -36,13 +36,15 @@ years: 4+ (KDT → 학부 인턴 → Aiffel → Clabi → BrainCrew)
 
 금융·Consumer·Enterprise·AdTech 도메인 RAG·Agent 시스템을 만들고 있습니다.
 
+> 🔒 클라이언트 프로젝트의 **회사명 · 사내 시스템명 · 절대 KPI 수치**는 NDA 보호 차원에서 일반화했습니다. 면접·평가 목적의 상세 자료가 필요하시면 이메일로 연락 주세요.
+
 | Project | Domain | Highlights |
 |---------|--------|------------|
-| 🔥 **Active** — Enterprise 사내 Harness & Agent | Telco (`2026.04 ~`) | `deepagents` 기반 **멀티 sub-agent** · **Skill 격리 설계** (Phase-02 sandbox 이식 가능) · LangGraph + PostgresSaver 영속 |
-| **IBK Capital** AI 여신 승인 | 금융 (On-Prem) | 처리시간 **70%↓** (3.5일→1일) · 비용 **₩4.7억/년 절감** |
-| **LG Electronics** 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
-| **GS Caltex** Long-term Memory MCP | Enterprise | 사내 AI 솔루션 MISO 통합 · 사용자 컨텍스트 영속 저장·재호출 |
-| **HSAD** 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
+| 🔥 **Active** — Enterprise 사내 Harness & Agent | Telco (`2026.04 ~`) | `deepagents` 기반 **멀티 sub-agent** · **Skill 격리 설계** (sandbox 환경 이식 가능) · LangGraph + PostgresSaver 영속 |
+| **금융사 A** — AI 여신 승인 | 금융 (On-Prem) | 처리시간 **70%↓** · 비용 **수억원/년 규모 절감** |
+| **Consumer 대기업** — 라이프로그 RAG | Consumer | 정확도 **92%** · Context **85%↓** (Graph + Vector Hybrid) |
+| **Enterprise B** — Long-term Memory MCP | Enterprise | 사내 AI 플랫폼 통합 · 사용자 컨텍스트 영속 저장·재호출 |
+| **AdTech 대행사** — 광고 기획서 자동 구조화 | AdTech | 비정형 PPT/PDF → 표준 스키마 매핑 |
 
 ### 🧰 Internal Tools & OSS
 
