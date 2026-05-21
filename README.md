@@ -10,7 +10,7 @@
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://seongyeon1.github.io/)
 [![Email](https://img.shields.io/badge/ksy974498@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ksy974498@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongyeon1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kirby's_Quest_RPG-FFA6C4?style=flat-square&logo=html5&logoColor=white)](https://github.com/seongyeon1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kirby's_Quest_RPG-FFA6C4?style=flat-square&logo=html5&logoColor=white)](https://seongyeon1.github.io/portfolio-rpg/)
 
 </div>
 
